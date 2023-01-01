@@ -1,4 +1,10 @@
-## Data-Py
+# Data-Py
+<p align=center><a href="#"><img title="build" src="https://img.shields.io/badge/status-OPTIMIZING-blue?style=for-the-badge&logo=github"><a></p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-blue?style=flat-square&logo=python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LINUX-blue?style=flat-square&logo=linux"></a>
+  <a href="#"><img src="https://img.shields.io/badge/WINDOWS-blue?style=flat-square&logo=windows"></a>
+</p>
 
 <p>
     Data-Py is an open source project dedicated to the extraction of metadata in images, pdf, gifs among others.
